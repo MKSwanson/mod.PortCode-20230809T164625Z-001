@@ -1,0 +1,108 @@
+
+
+.logo{
+    
+    background-image: url("../images/PortImg10.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 55vh;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+   
+}
+
+
+.nav{
+    display: flex;
+    background-color: grey;
+    padding: 20px;
+    box-align: center;
+}
+
+
+
+
+
+
+
+/* -----------------top section------------------ */
+
+.hero {
+   
+    height: 772px;
+    width: 579px;
+    background-image: url('../images/PortImg4.jpg');
+    background-size: cover;
+    background-position: left; 
+    background-color: grey;
+    text-align: center; 
+    
+}
+
+.maintext {
+    position: top ;
+    font-size: 30px;
+    background: grey;
+    width: 579px;
+    height: 360px;
+    float: right;
+    padding: 0 0 20px 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+/*-----------------------sub photos--------------------------- */
+
+.uiwork{
+    height: 723px;
+    width: 655px;
+    margin-left: 20px; 
+    background-image: url("../images/PortImg11.JPG");
+}
+
+
+.cats{
+    margin-left: 20px;
+    height: 504px;
+    width: 378px;
+    background-size: cover;
+    background-image: url("../images/PortImg8.jpg");
+}
+
+.art{
+    margin-left: 20px;
+    height: 507px;
+    width: 340px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../images/PortImg9.jpg");
+}
+
+
+
+
+.footer{
+    padding: 20px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.ig{
+    color: magenta;
+}
+
+.li{
+    color: blue;
+}
+
